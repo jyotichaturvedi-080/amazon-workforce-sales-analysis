@@ -1,4 +1,4 @@
-# Amazon-Workforce-Sales-Dashboard
+# amazon-workforce-sales-dashboard
 Excel Sales &amp; Workforce Intelligence Dashboard using Pivot Tables, XLOOKUP and Slicers.
 
 # 📊 Amazon Sales Dashboard (Excel)
