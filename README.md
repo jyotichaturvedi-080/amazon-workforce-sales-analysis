@@ -1,5 +1,5 @@
-# amazon-workforce-sales-analysis
-Excel Sales &amp; Workforce Intelligence Dashboard using Pivot Tables, XLOOKUP and Slicers.
+# Amazon-Workforce-Sales-Analysis
+Excel Sales & Workforce Intelligence Dashboard using Pivot Tables, XLOOKUP, and Slicers.
 
 # 📊 Amazon Sales Dashboard (Excel)
 
@@ -12,8 +12,8 @@ An interactive Excel dashboard analyzing 100 Amazon sales records to evaluate re
 
 ## 📂 Repository Files
 * **`Amazon_Sales_Data_Raw.csv`** – Uncleaned raw dataset (100 records).
-* **`Amazon_Sales_Analysis_Completed.xlsx`** – Excel workbook with cleaned data, XLOOKUP formulas, and Pivot Tables.
-* **`Amazon_Sales_Dashboard.png`** – Screenshot of the final interactive dashboard.
+* **`Amazon_Sales_Analysis_Complete.xlsx`** – Excel workbook with cleaned data, XLOOKUP formulas, and Pivot Tables.
+* **`Amazon_Sales_Dashboard_Screenshot.png`** – Screenshot of the final interactive dashboard.
 
 ---
 
