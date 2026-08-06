@@ -25,7 +25,7 @@ An interactive Excel dashboard analyzing 100 Amazon sales records to evaluate re
 
 ---
 
-## 📊 Key Insights
+## 🔍 Key Insights
 * **Total Revenue:** 35,258 across 100 orders.
 * **Top Regions:** 1. North (30% sales), 2. West (24%), 3. South (21%).
 * **Delivery Performance:** 34% total delivered; 32.35% categorized as fast deliveries (<= 2 days).
