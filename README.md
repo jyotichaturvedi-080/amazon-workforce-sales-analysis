@@ -6,7 +6,7 @@ Excel Sales & Workforce Intelligence Dashboard using Pivot Tables, XLOOKUP, and 
 ## 📌 Overview
 An interactive Excel dashboard analyzing 100 Amazon sales records to evaluate regional revenue, delivery performance, and order fulfillment trends.
 
-![Dashboard Preview](Amazon_Sales_Dashboard.png)
+![Dashboard Preview](Amazon_Sales_Dashboard_Screenshot.png)
 
 ---
 
